@@ -8,5 +8,6 @@ public class qwe {
         System.out.println("131231123132");
         System.out.println("qwe");
         System.out.println("qwe eqweqwe");
+        System.out.println("qwe 123123");
     }
 }
