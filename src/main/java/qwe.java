@@ -9,5 +9,6 @@ public class qwe {
         System.out.println("qwe");
         System.out.println("qwe eqweqwe");
         System.out.println("qwe 123123");
+        System.out.println("asfasfsfda");
     }
 }
